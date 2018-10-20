@@ -11,5 +11,5 @@ to previous ones that I didn't completed during my piscine.
 These scores don't show the final mark of this repository.*
 
 ### TODO
-  Look over the exercises and redo them 
+  Revise some exercises
   when I have time.
