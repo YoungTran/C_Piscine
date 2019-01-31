@@ -2,7 +2,7 @@
 
 ## Piscine C
 
-Every day for four weeks including weekends we had to
+Every day for four weeks including weekends I had to
 do fundamental exercises and projects in C. Prior to 
 this I some knowledge of javascript, html and css, 
 which helped but it was tough due to the nature of the C language.
